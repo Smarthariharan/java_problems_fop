@@ -22,7 +22,6 @@ public class RatMazeMultipleJumps {
                 return true;
             }
         }
-
         solution[x][y] = 0;
         return false;
     }
